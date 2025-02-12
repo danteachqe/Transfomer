@@ -1,0 +1,46 @@
+[
+  {
+    "name": "ConfirmationPage.js",
+    "absolute_path": "C:\\Cursuri\\Code\\Playwright\\Pages\\ConfirmationPage.js"
+  },
+  {
+    "name": "FlightsPage.js",
+    "absolute_path": "C:\\Cursuri\\Code\\Playwright\\Pages\\FlightsPage.js"
+  },
+  {
+    "name": "HomePage.js",
+    "absolute_path": "C:\\Cursuri\\Code\\Playwright\\Pages\\HomePage.js"
+  },
+  {
+    "name": "PurchasePage.js",
+    "absolute_path": "C:\\Cursuri\\Code\\Playwright\\Pages\\PurchasePage.js"
+  },
+  {
+    "name": "demo.js",
+    "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\demo.js"
+  },
+  {
+    "name": "demo1.js",
+    "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\demo1.js"
+  },
+  {
+    "name": "demo_ai.js",
+    "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\demo_ai.js"
+  },
+  {
+    "name": "skip_ai_incorporation.js",
+    "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\skip_ai_incorporation.js"
+  },
+  {
+    "name": "skip_clock.js",
+    "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\skip_clock.js"
+  },
+  {
+    "name": "spec.js",
+    "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\spec.js"
+  },
+  {
+    "name": "Test1.js",
+    "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\Test1.js"
+  }
+]

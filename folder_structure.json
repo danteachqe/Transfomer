@@ -1,0 +1,155 @@
+{
+  ".": {
+    "absolute_root": "C:\\Cursuri\\Code\\Playwright",
+    "dirs": [
+      ".github",
+      "data",
+      "Pages",
+      "tests",
+      "Test_CASES"
+    ],
+    "files": [
+      {
+        "name": ".gitignore",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\.gitignore"
+      },
+      {
+        "name": "LICENSE",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\LICENSE"
+      },
+      {
+        "name": "package-lock.json",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\package-lock.json"
+      },
+      {
+        "name": "package.json",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\package.json"
+      },
+      {
+        "name": "playwright.config.js",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\playwright.config.js"
+      },
+      {
+        "name": "README.md",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\README.md"
+      },
+      {
+        "name": "zerostep.config.json",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\zerostep.config.json"
+      }
+    ]
+  },
+  ".github": {
+    "absolute_root": "C:\\Cursuri\\Code\\Playwright\\.github",
+    "dirs": [
+      "workflows"
+    ],
+    "files": []
+  },
+  ".github\\workflows": {
+    "absolute_root": "C:\\Cursuri\\Code\\Playwright\\.github\\workflows",
+    "dirs": [],
+    "files": [
+      {
+        "name": "manual.yml",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\.github\\workflows\\manual.yml"
+      }
+    ]
+  },
+  "data": {
+    "absolute_root": "C:\\Cursuri\\Code\\Playwright\\data",
+    "dirs": [],
+    "files": [
+      {
+        "name": "flightData.json",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\data\\flightData.json"
+      },
+      {
+        "name": "flightData1.json",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\data\\flightData1.json"
+      },
+      {
+        "name": "passengerInfo.json",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\data\\passengerInfo.json"
+      },
+      {
+        "name": "passengerInfo1.json",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\data\\passengerInfo1.json"
+      },
+      {
+        "name": "paymentInfo.json",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\data\\paymentInfo.json"
+      },
+      {
+        "name": "paymentInfo1.json",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\data\\paymentInfo1.json"
+      }
+    ]
+  },
+  "Pages": {
+    "absolute_root": "C:\\Cursuri\\Code\\Playwright\\Pages",
+    "dirs": [],
+    "files": [
+      {
+        "name": "ConfirmationPage.js",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\Pages\\ConfirmationPage.js"
+      },
+      {
+        "name": "FlightsPage.js",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\Pages\\FlightsPage.js"
+      },
+      {
+        "name": "HomePage.js",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\Pages\\HomePage.js"
+      },
+      {
+        "name": "PurchasePage.js",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\Pages\\PurchasePage.js"
+      }
+    ]
+  },
+  "tests": {
+    "absolute_root": "C:\\Cursuri\\Code\\Playwright\\tests",
+    "dirs": [],
+    "files": [
+      {
+        "name": "demo.js",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\demo.js"
+      },
+      {
+        "name": "demo1.js",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\demo1.js"
+      },
+      {
+        "name": "demo_ai.js",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\demo_ai.js"
+      },
+      {
+        "name": "skip_ai_incorporation.js",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\skip_ai_incorporation.js"
+      },
+      {
+        "name": "skip_clock.js",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\skip_clock.js"
+      },
+      {
+        "name": "spec.js",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\spec.js"
+      },
+      {
+        "name": "Test1.js",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\tests\\Test1.js"
+      }
+    ]
+  },
+  "Test_CASES": {
+    "absolute_root": "C:\\Cursuri\\Code\\Playwright\\Test_CASES",
+    "dirs": [],
+    "files": [
+      {
+        "name": "Case 2.1Search Flights with Valid Data",
+        "absolute_path": "C:\\Cursuri\\Code\\Playwright\\Test_CASES\\Case 2.1Search Flights with Valid Data"
+      }
+    ]
+  }
+}
